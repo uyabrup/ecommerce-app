@@ -1,0 +1,1 @@
+We are developing a generic e-commerce application for android devices.
